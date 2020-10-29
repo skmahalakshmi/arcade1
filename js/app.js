@@ -72,7 +72,7 @@ player.handleInput = function(press) {
       allowEscapeKey: false,
       allowOutsideClick: false,
       html: true,
-      title: 'Awesome You have won the game!',
+      title: 'Its great!! You have won the Game ',
 
       type: 'success',
       confirmButtonColor: '#02ccba',
